@@ -4,7 +4,7 @@ Converts text to regional indicator emojis
 
 ## Usage
 
-``bash
+```bash
 $ emojispeak
 ```
 

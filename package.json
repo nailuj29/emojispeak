@@ -1,7 +1,8 @@
 {
   "name": "emojispeak",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
+  "description": "Turns text into regional indicator emojis",
   "repository": "https://github.com/nailuj29gaming/emojispeak",
   "author": "Nailuj29 Gaming <nailuj29gaming@gmail.com>",
   "license": "MIT",

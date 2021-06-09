@@ -17,6 +17,8 @@ const rl = readline.createInterface({
 
 const input = []
 
+console.log("Enter the text to emoji-ize, followed by Ctrl-D (Ctrl-Z on windows)");
+
 rl.prompt()
 
 rl.on('line', (text) => {

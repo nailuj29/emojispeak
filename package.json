@@ -1,0 +1,13 @@
+{
+  "name": "emojispeak",
+  "version": "1.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/nailuj29gaming/emojispeak",
+  "author": "Nailuj29 Gaming <nailuj29gaming@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "clipboardy": "^2.3.0"
+  },
+  "bin": "index.js",
+  "type": "module"
+}
